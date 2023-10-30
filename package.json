@@ -1,0 +1,25 @@
+{
+  "name": "livro-js",
+  "version": "1.0.0",
+  "description": "I'm learning JavaScript with the Ethan Brown's book",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sieben-marco/livro-js.git"
+  },
+  "author": "sieben_marco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sieben-marco/livro-js/issues"
+  },
+  "homepage": "https://github.com/sieben-marco/livro-js#readme",
+  "dependencies": {
+    "underscore": "^1.13.6"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
